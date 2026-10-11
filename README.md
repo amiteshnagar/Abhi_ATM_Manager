@@ -168,6 +168,10 @@ The main application navigation contains:
 
 ```text
 Dashboard | Activity | Reports | History
+
+## Download APK
+
+https://github.com/amiteshnagar/Abhi_ATM_Manager/releases/download/v1.0.0/app-release.apk
 ---
 Designed & Developed with ❤️ by Amitesh Nagar.
 © 2026 All Rights Reserved.
